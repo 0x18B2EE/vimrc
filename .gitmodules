@@ -1,0 +1,3 @@
+[submodule "sources_non_forked/jellybeans.vim"]
+	path = sources_non_forked/jellybeans.vim
+	url = https://github.com/nanotech/jellybeans.vim
